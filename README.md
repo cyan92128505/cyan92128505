@@ -1,4 +1,5 @@
-### Hi there 👋
+![Aoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyan92128505&theme=github_dark&show_icons=true)
+
 
 <!--
 **cyan92128505/cyan92128505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
