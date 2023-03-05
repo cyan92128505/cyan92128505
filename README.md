@@ -18,9 +18,9 @@ Cross-platform software professional with 5+ years of full-stack software develo
 
 |||
 |---:|---|
-|Programming|JavaScript, TypeScript, Dart, Golang. |
-|Platforms|React.js, Node.js, Flutter, Web3.js. |
-|Technologies|Linux, Git, Github Action, Redis, PostgreSQL.|
+|Programming|JavaScript, TypeScript, Dart, Golang |
+|Platforms|React.js, Node.js, Flutter, Web3.js |
+|Technologies|Linux, Git, Github Action, Redis, PostgreSQL|
 |Domains|Software Architecture, CI/CD, Web/Mobile Development, DAPP|
 
 ---
