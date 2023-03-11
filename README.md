@@ -29,8 +29,12 @@ As a cross-platform software professional with over five years of experience in 
 
 #### AJDAO: Blockchain Developer (2022/02-Now)
 
-- DAPP development ( Service -> Node.js, Web -> React.js, APP -> Flutter)
-- GameFi experiment
+- GameFi DAPP development
+    - Node.js:[API]
+    - React.js:[Web APP]
+    - Flutter:[Mobile APP]
+    - Golang:[API],[Node_Geth]
+    - Solidity:[Ethereum dApp With Ethers.js]
 
 #### [Anytime](https://www.anytime.tw/): Flutter Mobile Engineer (2021/04-2022/01)
 
