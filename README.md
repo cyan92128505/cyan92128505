@@ -23,7 +23,7 @@ Starting from 2016, I have been working as a cross-platform software professiona
 |---:|---|
 |Programming|JavaScript, TypeScript, Dart, Golang |
 |Platforms|React.js, Node.js, Flutter, Ethers.js |
-|Technologies|Linux, Git, Github Action, Redis, PostgreSQL|
+|Technologies|Linux, Git, Github Action, Redis, RDBMS, MongoDB|
 |Domains|Software Architecture, CI/CD, Web/Mobile Development, DAPP|
 
 ---
