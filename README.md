@@ -13,7 +13,7 @@
 
 ## Summary
 
-As a cross-platform software professional with over five years of experience in full-stack software development, I possess extensive expertise in a range of technologies, including Flutter, ReactJS, NodeJS, And Golang. I am actively seeking a full-time remote position as a Software Development Engineer (SDE).
+Starting from 2016, I have been working as a cross-platform software professional, gaining extensive experience in full-stack software development. I have a strong command of various technologies, including Flutter, ReactJS, NodeJS, and Golang. Currently, I am actively seeking a full-time remote position as a Software Development Engineer (SDE).
 
 ---
 
