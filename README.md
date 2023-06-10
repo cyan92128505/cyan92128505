@@ -35,7 +35,7 @@ Starting from 2016, I have been working as a cross-platform software professiona
 - Developed GameFi DAPP using Node.js for API development
 - Built React.js based web app for GameFi DAPP
 - Created Flutter based mobile app for the GameFi DAPP
-- Implemented Golang for API and Node_Geth for GameFi DAPP development
+- Implemented Golang for API and Geth for GameFi DAPP development
 - Designed and developed Ethereum dApp using Solidity with Ethers.js
 
 
