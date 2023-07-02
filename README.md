@@ -30,7 +30,7 @@ Starting from 2016, I have been working as a cross-platform software professiona
 
 ## Work Experience
 
-#### AJDAO: Blockchain Developer (2022/02-Now)
+#### AJDAO: Blockchain Developer (2022/02-2023/06)
 
 - Developed GameFi DAPP using Node.js for API development
 - Built React.js based web app for GameFi DAPP
