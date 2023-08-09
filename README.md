@@ -30,6 +30,12 @@ Starting from 2016, I have been working as a cross-platform software professiona
 
 ## Work Experience
 
+#### MeepShop Limited: Full Stack Engineer (2022/02-2023/06)
+
+- Developed E-commerce service using Node.js for API development
+- Built React.js based web app for E-commerce website
+- Created Flutter based mobile app for the E-commerce APP
+
 #### AJDAO: Blockchain Developer (2022/02-2023/06)
 
 - Developed GameFi DAPP using Node.js for API development
