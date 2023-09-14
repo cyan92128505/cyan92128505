@@ -30,7 +30,7 @@ Starting from 2016, I have been working as a cross-platform software professiona
 
 ## Work Experience
 
-#### MeepShop Limited: Full Stack Engineer (2022/02-2023/06)
+#### MeepShop Limited: Full Stack Engineer (2023/07-NOW)
 
 - Developed E-commerce service using Node.js for API development
 - Built React.js based web app for E-commerce website
